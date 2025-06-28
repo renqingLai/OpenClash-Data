@@ -2,4 +2,6 @@
 
 本项目私人使用，内容数据会不断变动。
 
+配置库地址：https://github.com/ACL4SSR/ACL4SSR/tree/master/Clash
+
 相关项目请浏览本人主页：https://renqing.xyz
